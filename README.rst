@@ -23,7 +23,7 @@ Get OpenSlides
 
 First, you have to clone this repository, then checkout the latest stable branch::
 
-    git clone https://github.com/OpenSlides/OpenSlides.git --recurse-submodules
+    git clone https://github.com/OpenSlides/OpenSlides.git --recurse-submodules -b stable/3.4.x
     cd OpenSlides/
     git checkout stable/3.4.x
 
